@@ -1,0 +1,11 @@
+C:\Users\Vinícius\Downloads\IFSP_4_EDD2-master\IFSP_4_EDD2-master\ProjetoBilheteria\bin\Debug\ProjetoBilheteria.exe.config
+C:\Users\Vinícius\Downloads\IFSP_4_EDD2-master\IFSP_4_EDD2-master\ProjetoBilheteria\bin\Debug\ProjetoBilheteria.exe
+C:\Users\Vinícius\Downloads\IFSP_4_EDD2-master\IFSP_4_EDD2-master\ProjetoBilheteria\bin\Debug\ProjetoBilheteria.pdb
+C:\Users\Vinícius\Downloads\IFSP_4_EDD2-master\IFSP_4_EDD2-master\ProjetoBilheteria\obj\Debug\ProjetoBilheteria.csproj.AssemblyReference.cache
+C:\Users\Vinícius\Downloads\IFSP_4_EDD2-master\IFSP_4_EDD2-master\ProjetoBilheteria\obj\Debug\ProjetoBilheteria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vinícius\Downloads\IFSP_4_EDD2-master\IFSP_4_EDD2-master\ProjetoBilheteria\obj\Debug\ProjetoBilheteria.Form1.resources
+C:\Users\Vinícius\Downloads\IFSP_4_EDD2-master\IFSP_4_EDD2-master\ProjetoBilheteria\obj\Debug\ProjetoBilheteria.Properties.Resources.resources
+C:\Users\Vinícius\Downloads\IFSP_4_EDD2-master\IFSP_4_EDD2-master\ProjetoBilheteria\obj\Debug\ProjetoBilheteria.csproj.GenerateResource.cache
+C:\Users\Vinícius\Downloads\IFSP_4_EDD2-master\IFSP_4_EDD2-master\ProjetoBilheteria\obj\Debug\ProjetoBilheteria.csproj.CoreCompileInputs.cache
+C:\Users\Vinícius\Downloads\IFSP_4_EDD2-master\IFSP_4_EDD2-master\ProjetoBilheteria\obj\Debug\ProjetoBilheteria.exe
+C:\Users\Vinícius\Downloads\IFSP_4_EDD2-master\IFSP_4_EDD2-master\ProjetoBilheteria\obj\Debug\ProjetoBilheteria.pdb
